@@ -1,0 +1,19 @@
+body {
+   background: violet; 
+   margin: 0 auto;
+   width: 500px;
+   text-align: center;
+   font-family: Arial, Verdana, sans-serif;
+
+}
+h1 {
+    color: brown;
+background-color: white;
+}
+button {
+    border : 3px solid blueviolet;
+    border-radius: 15px;
+    padding: 10px 15px;
+    background-color: burlywood;
+
+}
